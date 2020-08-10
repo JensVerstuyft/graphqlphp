@@ -1,6 +1,6 @@
 # GraphQL weather api
 
-This api will return the weather data for given location (lat/lon), data is fetched from openweathermap.org
+This api will return the weather data for given location (lat/lon), data is fetched from openweathermap.org <br />
 It's based on Laravel framework and the GraphQLite 4 library.
 
 ## Instalation
